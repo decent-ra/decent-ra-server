@@ -1,0 +1,6 @@
+[submodule "libs/decent-ra-api"]
+	path = libs/decent-ra-api
+	url = https://github.com/decent-ra/decent-ra-api.git
+[submodule "libs/tclap"]
+	path = libs/tclap
+	url = https://git.code.sf.net/p/tclap/code

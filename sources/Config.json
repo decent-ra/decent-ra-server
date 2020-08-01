@@ -1,0 +1,17 @@
+{
+	"_comment" : "A configuration file for Decent Server", 
+
+	"DecentServer" :
+	{
+		"Address" : "127.0.0.1", 
+		"Port" : 57755, 
+		"LoadedWhiteList" : false
+	},
+
+	"SgxServiceProvider" :
+	{
+		"IasSpid" : "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+		"SubscriptionKey" : "00000000000000000000000000000000"
+	}
+
+}
