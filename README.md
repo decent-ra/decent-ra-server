@@ -1,5 +1,6 @@
 # decent-ra-server
 
 ## NOTE
-- This repo is only created for the purpose of anonymity in paper submission.
-- Submodule in `hunter` directory is pushed with source files directly, to avoid potential violation of anonymity caused by the link to the forked repos.
+- For the purpose of anonymity of paper submission, we created this *temporary* repo to show the source code. (That's why you can't see full commit history in here)
+- Some submodules in `lib` directory are pushed with source files directly, to avoid potential violation of anonymity caused by the link of forked repos.
+- The code has only been fully tested under *Windows 10* environment.
